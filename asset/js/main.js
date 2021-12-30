@@ -67,9 +67,9 @@ $(document).ready(function (){
     const contact = $('#contact');
 
     const disco = $('.disco');
-    const discoTwo = $('#disco2');
-    const discoThree = $('#disco3');
-    const discoFourth = $('#disco4');
+    const discoTwo = $('.disco2');
+    const discoThree = $('.disco3');
+    const discoFourth = $('.disco4');
 
     discoTwo.on('click',function (e){
         disco.removeClass('selected');

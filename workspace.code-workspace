@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\portfolio2"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\delsol"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "htdocs"
+	}
+}
