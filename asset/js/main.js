@@ -71,6 +71,12 @@ $(document).ready(function (){
     const discoThree = $('.disco3');
     const discoFourth = $('.disco4');
 
+    // const check = $('.check');
+
+    // check.on('click', function(e){
+    //     e.preventDefault;
+    // })
+
     discoTwo.on('click',function (e){
         disco.removeClass('selected');
         discoTwo.addClass('selected');

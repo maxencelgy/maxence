@@ -360,6 +360,11 @@ ul {
     color: white;
 }
 
+.indispo {
+    background-color: gray;
+    color:  black!important;
+}
+
 /* *************************CONtACT******************** */
 #contact {
     position: relative;
