@@ -162,12 +162,12 @@ ul {
 .navigation ul li a:hover {
  
   border-bottom: solid var(--vert) 4px;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 .navigation ul li .disco3:hover {
 
-  border-bottom: solid #6200ee 3px;
-  transition: 0.5s;
+  border-bottom: solid #6200ee 4px;
+  transition: 0.3s;
 }
 
 .navigation i {
