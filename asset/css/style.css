@@ -352,6 +352,9 @@ ul {
 .card :nth-child(3) {
   background-color: #6200ee;
 }
+.card :nth-child(3):hover {
+  background-color: transparent;
+}
 .card a:hover {
   background-color: #6200ee;
   transition: 0.5s;
