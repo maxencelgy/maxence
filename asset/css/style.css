@@ -160,12 +160,10 @@ ul {
   margin-bottom: 2rem;
 }
 .navigation ul li a:hover {
- 
   border-bottom: solid var(--vert) 4px;
   transition: 0.3s;
 }
 .navigation ul li .disco3:hover {
-
   border-bottom: solid #6200ee 4px;
   transition: 0.3s;
 }
@@ -255,7 +253,7 @@ ul {
   background: var(--vert);
   border-radius: 0.2rem;
   position: relative;
-  animation: fillBars 15s;
+  animation: fillBars 10s;
 }
 .skill-per::before {
   content: attr(per);
